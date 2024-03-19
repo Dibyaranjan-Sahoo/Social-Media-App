@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Backend Server made using Nodejs, MongoDB, GraphQL, and Apollo Server.",
   "main": "index.js",
-  "scripts": {
-    "test": "jest tests",
-    "start": "nodemon index.js"
+   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
